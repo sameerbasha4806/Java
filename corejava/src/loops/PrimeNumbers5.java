@@ -49,7 +49,7 @@ public class PrimeNumbers5 {
 //		for(int i=1;i<=100;i++) {
 //			if(obj.getPrime(i)) {
 //				System.out.println(i);
-//			}=
+//			}
 //		}
         
 	System.out.println(obj2.getPrime(7)?"prime number":"not a prime");
